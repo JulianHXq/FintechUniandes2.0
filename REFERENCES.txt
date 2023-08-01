@@ -1,0 +1,6 @@
+REFERENCES
+
+Solidity, Blockchain y Smart Contracts - De Cero a Experto (VIDEO)
+	#https://www.youtube.com/watch?v=yN3zpI3sNAE
+Pagina  básica de diseño de Smart Contracts
+	#https://www.bunzz.dev/?gclid=Cj0KCQjw2qKmBhCfARIsAFy8buIU5h7VCrqiPEr04qjtVmNps2qLEC3gaFmUZCca7_UN6Kn6SuIrjZgaAta0EALw_wcB
