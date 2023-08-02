@@ -10,9 +10,7 @@ https://www.youtube.com/watch?v=cj9zxQ3mWxM&list=PLbo6ydLr984aBOV3wM-ANVmlsvzr1y
 https://www.youtube.com/watch?v=ZS_pM7Yp_Xk&list=PLbo6ydLr984bTCP9MVTeub1XZXVuZVpku&pp=iAQB
 5-Security and Hacking
 https://www.youtube.com/watch?v=fjNGwAEQBVA&list=PLbo6ydLr984a73cdWTho57k28ddk8NXOu&pp=iAQB
-6-Web Development Python
-https://www.youtube.com/watch?v=t8P6estGusQ&list=PLbo6ydLr984a2hDCIZFljV6kaIFcTCPWN&pp=iAQB
-7-Machine Learning- Go from zero to Hero
+6-Machine Learning- Go from zero to Hero
 https://www.youtube.com/watch?v=o8afDQB9jqc&list=PLbo6ydLr984YkhXFwhiL3zUSi-DkJGKbB&pp=iAQB
-8-Introduction to Data Science and Machine Learning with Python
+7-Introduction to Data Science and Machine Learning with Python
 https://www.youtube.com/watch?v=dO8Vuz1KlL4&list=PLbo6ydLr984YtaN5yt4lSvtHTyNhcYP0L&pp=iAQB
